@@ -5,7 +5,7 @@ Welcome to my repository for all the scripts, modules, and anything else I creat
 
 **Intune**
 
-Device Manageent, App deployment, Device Compliance, Remediations, and any other Intune related scripts
+Device Management, App deployment, Device Compliance, Remediations, and any other Intune related scripts
 
 **Entra ID**
 
