@@ -1,0 +1,4 @@
+<key>AllowCrossOriginAuthPrompt</key>
+ <false />
+<key>SafeBrowsingProtectionLevel</key>
+ <integer>1</integer>
